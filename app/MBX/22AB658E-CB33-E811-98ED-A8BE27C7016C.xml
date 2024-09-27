@@ -1,0 +1,74 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="22AB658E-CB33-E811-98ED-A8BE27C7016C" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="8">
+    <control controlID="9E59C79D-CB33-E811-98ED-A8BE27C7016C" controlTypeID="Shape" x="0" y="20" w="375" h="47" zOrder="0">
+      <color>4284390142</color>
+      <borderColor>4283595699</borderColor>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmBottom]</borderMode>
+    </control>
+    <control controlID="F859C79D-CB33-E811-98ED-A8BE27C7016C" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="1">
+      <color>4284390142</color>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="7A5AC79D-CB33-E811-98ED-A8BE27C7016C" controlTypeID="Label" x="313" y="32" w="56" h="22" zOrder="2">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="command:back" linkType="ltPageLink" isApplyIncludePage="False" title="">
+          <area shape="0" alt="" ID="{18C1424E-E133-E811-98ED-A8BE27C7016C}" coords="(0,0,56,22)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Cancel</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C05AC79D-CB33-E811-98ED-A8BE27C7016C" controlTypeID="Icon" x="15" y="38" w="16" h="16" zOrder="3">
+      <color>4294967295</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62629</iconCode>
+      </icon>
+      <URL>6EE140726548992D82F763CCD21EF6A1.svg</URL>
+    </control>
+    <control controlID="B4CD3BA9-CB33-E811-98ED-A8BE27C7016C" controlTypeID="TextInput" x="41" y="24" w="242" h="39" zOrder="4">
+      <color>16777215</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search+notes</text>
+      <textColor>4289448958</textColor>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA6A69CA-CB33-E811-98ED-A8BE27C7016C" controlTypeID="Label" x="15" y="78" w="184" h="22" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Learn+Advanced+Search</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1A6604E7-CB33-E811-98ED-A8BE27C7016C" controlTypeID="Icon" x="352" y="84" w="13" h="13" zOrder="6">
+      <color>4291414478</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62417</iconCode>
+      </icon>
+      <URL>97D42F84AB1ACA7B3DB71E8D7DA90BF0.svg</URL>
+    </control>
+    <control controlID="A28F6F29-CC33-E811-98ED-A8BE27C7016C" controlTypeID="Keyboard" x="0" y="404" w="375" h="263" zOrder="7"/>
+  </controls>
+  <param>
+    <backgroundColor>4294244346</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>
